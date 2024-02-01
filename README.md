@@ -1,9 +1,9 @@
 # Git Practice
-## Link: https://news.stanford.edu/report/2023/04/10/technology-might-be-making-education-worse/
+### Link: https://news.stanford.edu/report/2023/04/10/technology-might-be-making-education-worse/
 
-# Title: Technology might be making education worse
-# Author: ANTERO GARCIA
-# Publication: Standford Report 
+### Title: Technology might be making education worse
+### Author: ANTERO GARCIA
+### Publication: Standford Report 
 
 I found this article interesting because, as a student studying computer science, I want to get into tech through the route of figuring out how we can use technology to make books and education more accessible. With that being said, I want to figure out how technology can be a tool to aid a stronger education system rather than taking it over. Garcia talks about this exactly in that technology platforms have taken over school systems (especially with the pandemic). 
 
